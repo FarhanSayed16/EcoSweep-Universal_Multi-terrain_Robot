@@ -1,7 +1,5 @@
 # EcoSweep
 
-> \<One-sentence description of what ecpsweep does — concise and outcome-focused.>
-> Example: *Fast, scriptable sweep runner that automates parameter grids/experiments across environments and aggregates results.*
 
 [![Status](https://img.shields.io/badge/status-active-success)](#) [![License](https://img.shields.io/badge/license-MIT-informational)](#license) [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)](#-continuous-integration) [![Docs](https://img.shields.io/badge/docs-README-lightgrey)](#-table-of-contents)
 
