@@ -1,4 +1,4 @@
-# ecosweep
+# EcoSweep
 
 > \<One-sentence description of what ecpsweep does — concise and outcome-focused.>
 > Example: *Fast, scriptable sweep runner that automates parameter grids/experiments across environments and aggregates results.*
