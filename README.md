@@ -1,8 +1,4 @@
-Awesome — I can give you a complete, production-ready `README.md` you can drop into your repo right now. Since I don’t yet know the specifics of your ecpsweep project (language, purpose, inputs/outputs), I’ve written a best-in-class README with clear placeholders you can quickly swap out. Anything wrapped in `<angle brackets>` or inside HTML comments `<!-- ... -->` is meant for you to replace or delete.
-
----
-
-# ecpsweep
+# ecosweep
 
 > \<One-sentence description of what ecpsweep does — concise and outcome-focused.>
 > Example: *Fast, scriptable sweep runner that automates parameter grids/experiments across environments and aggregates results.*
@@ -475,17 +471,3 @@ outputs/
 *.log
 .env
 ```
-
----
-
-## How to tailor this in 2 minutes
-
-1. Replace the top tagline and **Key Features** with your exact wording.
-2. Keep only one stack in **Quickstart** and **Usage** (Python or Node or Go).
-3. Paste a real `config/sample.yaml` and one real command under **Examples**.
-4. Update **Output schema** to match your metrics/filenames.
-5. Set License, Security contact, and remove unused sections.
-
----
-
-If you share a few specifics (language, purpose, how you run it, sample config/command, output files), I’ll instantly swap the placeholders and hand you a perfectly customized README with zero guesswork.
